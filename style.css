@@ -1,0 +1,35 @@
+
+
+body{
+	background-image: url("https://images.pexels.com/photos/96974/pexels-photo-96974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: fixed;
+	width: 100%;
+}
+.container{
+	text-align: center;
+}
+
+.btn {
+	background-color: #FFE36C;
+}
+
+.btn:hover{
+	background-color: #FFE36C;
+	color: #666;
+}
+
+
+.jumbotron{
+	margin-bottom: 0px;
+    height: 350px;
+    color: black;
+    background: transparent;
+ }
+
+ .navbar{
+    padding: 20px 10px;
+    z-index: 100;
+    width: 100%;
+ }
